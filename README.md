@@ -6,7 +6,8 @@
 [![Latest Release](https://img.shields.io/github/v/release/bmax121/APatch?label=Release&logo=github)](https://github.com/bmax121/APatch/releases/latest)
 [![Nightly Release](https://img.shields.io/badge/Nightly%20release-gray?logo=hackthebox&logoColor=fff)](https://nightly.link/bmax121/APatch/workflows/build/main/APatch-Release)
 [![Channel](https://img.shields.io/badge/Follow-Telegram-blue.svg?logo=telegram)](https://t.me/APatchGroup)
-[![GitHub License](https://img.shields.io/github/license/bmax121/APatch?logo=gnu)](/LICENSE)
+[![GitHub License](https://img.shields.io/gi<img width="1080" height="2340" alt="f763b1af-20fc-4e13-8883-2c0b54c026a1-1_all_2" src="https://github.com/user-attachments/assets/26eefcc9-8ac9-4076-9889-f6e0be266093" />
+thub/license/bmax121/APatch?logo=gnu)](/LICENSE)
 
 </div>
 
